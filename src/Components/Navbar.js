@@ -12,12 +12,12 @@ const Navbar = () => {
 	return (
 		<div className='font-Roboto  pt-[36px] flex flex-col justify-center '>
 			<div className='px-[120px]'>
-				<div className='flex items-center justify-between'>
+				<div className='flex items-center'>
 					<div>
 						<h1 className='text-black font-bold text-xl'>Oluwalogbon </h1>
 						<span className='text-[#626161] font-normal'>Electronics</span>
 					</div>
-					<div className='flex bg-[#F3F3F3] items-center justify-between px-[14px] py-[7px]'>
+					<div className='flex bg-[#F3F3F3] items-center justify-between px-[14px] py-[7px] w-[523px] ml-[140px] mr-[24px]'>
 						<form action=''>
 							<input
 								type='text'
